@@ -1,5 +1,3 @@
-Here is an interactive GitHub README.md for the blogging app you described:
-
 # Blog App
 
 A simple blogging application built with Node.js, Express, MongoDB, and EJS. 
