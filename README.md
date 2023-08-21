@@ -1,6 +1,6 @@
 # NodeBlogify
 
-A simple blogging application built with Node.js, Express, MongoDB, and EJS. 
+A simple personal blogging application built with Node.js, Express, MongoDB, and EJS. 
 
 ## Features
 
