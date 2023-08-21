@@ -1,4 +1,4 @@
-# Blog App
+# NodeBlogify
 
 A simple blogging application built with Node.js, Express, MongoDB, and EJS. 
 
